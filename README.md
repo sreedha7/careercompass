@@ -37,7 +37,7 @@ CareerCompass is an interactive, web-based platform designed to help individuals
 - **Responsive design principles** for cross-device compatibility
 
 ## 📂 Project Structure
-
+```
 project/
 │
 ├── HTML/
@@ -50,7 +50,7 @@ project/
 │ └── img1.jpeg, img2.jpeg, ... img13.jpeg
 └── php/
 └── signup.php (planned)
-
+```
 
 ## ✨ How It Works
 
